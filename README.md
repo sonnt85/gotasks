@@ -1,5 +1,7 @@
 # gotasks
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/sonnt85/gotasks.svg)](https://pkg.go.dev/github.com/sonnt85/gotasks)
+
 Minimal concurrent task runner — launch goroutines and wait for the first error or all to succeed.
 
 ## Installation
