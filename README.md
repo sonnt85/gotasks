@@ -44,6 +44,10 @@ if err := t.Wait(); err != nil {
 - `(*T).Go(task func() error)` — launch a task as a goroutine
 - `(*T).Wait() error` — block until all tasks finish or one returns an error; returns `nil` when all succeed
 
+## Author
+
+**sonnt85** — [thanhson.rf@gmail.com](mailto:thanhson.rf@gmail.com)
+
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
