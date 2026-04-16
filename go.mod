@@ -1,3 +1,3 @@
 module github.com/sonnt85/gotasks
 
-go 1.19
+go 1.21
